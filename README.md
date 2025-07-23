@@ -1,1 +1,2 @@
 # Cardiac-Attack-Risk-Prediction
+This project uses retinal images to predict the risk of a heart attack using Artificial Intelligence (AI) and Machine Learning (ML). The retina shows changes in blood vessels that relate to heart problems. By analyzing these images with deep learning models, we can detect early signs of heart disease. This method is non-invasive, quick, and cost-effective, helping doctors identify high-risk patients early and prevent serious heart conditions.
